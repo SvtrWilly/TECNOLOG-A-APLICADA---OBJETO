@@ -1,6 +1,8 @@
  # Clase 02
-  ¿Las canciones son objetos? (Pensamiento de ducha)
+  ¿Las canciones son objetos? 
+  Más que las canciones, cómo puedo escultorizar u objetualizar un sonido?
   Cómo escultorizar una canción
+  A primera instancia, se me ocurre que con parlantes, bocinas, instrumentos, etc. Pero ahí el sonido deja de ser un objeto y se convierte en un complemento.
 
   # Tarea
   ## Escribir mis cualidades de forma Relacional y Material
@@ -37,29 +39,3 @@ Pienso en *pulsos* , pilares, ondas, líneas como objetos fisicos de cómo una c
 ¿Cómo metaforizar esta obra?
 
 Como agregar una imagen.
-
-# CLASE 02(.5)
-## Escribir 10 cualidades de 2 objetos
-
-## Acuario y Guitarra
-(Incluir Imagenes)
-
-## Acuario
-
-- Tiene agua
-- Tiene peces
-- Vidrio
-- Grande
-- No está vivo
-- Transparente
-- Electricidad
-
-
-## Guitarra
-
--Madera
--Barniz
--Metal
--Trastes
--Cuerdas
--Negra y roja
