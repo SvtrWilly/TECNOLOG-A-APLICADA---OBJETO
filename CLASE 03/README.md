@@ -17,3 +17,5 @@ estableciendo una relación directa entre tamaño y estado visual.
 permitiendo observar el ritmo cardiaco no solo como medición, sino como una manifestación visual de procesos internos del cuerpo.
 
 ![Visualización](media/CAPTURA.png)
+
+
