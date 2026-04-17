@@ -16,6 +16,14 @@ estableciendo una relación directa entre tamaño y estado visual.
 - De esta manera, el proyecto desplaza el dato desde su condición numérica hacia una dimensión perceptiva,
 permitiendo observar el ritmo cardiaco no solo como medición, sino como una manifestación visual de procesos internos del cuerpo.
 
-![Visualización](media/CAPTURA.png)
+NOTAS:
+- El sujeto fue expuesto a diferentes situaciones que pudieran alterar su ritmo cardiaco, tales como: Escuchar música, correr,
+dormir, platicar con amigos, etc...
+- El sujeto salió a una cita.
+- El sujeto experimenta cambios bruscos de emoción.
+- Hasta ahora, se han realizado 6 códigos de prueba.
+
+![<img width="498" height="276" alt="Captura de Pantalla 2021-08-16 a la(s) 17 27 01" src="https://github.com/user-attachments/assets/87b50267-7ed3-4200-b346-2a4310ebb569" />
+](media/CAPTURA.png)
 
 
