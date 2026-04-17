@@ -1,0 +1,100 @@
+float[] datos;
+int total;
+
+void setup() {
+  size(900, 700, P2D);
+  
+  String[] lines = loadStrings("datos_para_blender.csv");
+  
+  if (lines == null) {
+    println();
+    exit();
+  }
+  
+  total = lines.length - 1;
+  datos = new float[total];
+  
+  float minVal = 9999;
+  float maxVal = -9999;
+  
+  for (int i = 1; i < lines.length; i++) {
+    String[] cols = split(lines[i], ',');
+    if (cols.length < 2) continue;
+    
+    float val = float(cols[1]);
+    datos[i-1] = val;
+    
+    if (val < minVal) minVal = val;
+    if (val > maxVal) maxVal = val;
+  }
+
+  // Normalizar
+  for (int i = 0; i < datos.length; i++) {
+    datos[i] = map(datos[i], minVal, maxVal, 0, 100);
+  }
+
+  println("Datos cargados: " + datos.length);
+}
+
+void draw() {
+  background(0);
+
+  translate(width/2, height/2);
+
+  float t = frameCount * 0.04;
+
+  float breath = sin(t * 0.2);
+  float pulse = sin(t * 1.5);
+
+  scale(1 + 0.15 * breath);
+
+  noStroke();
+
+  beginShape();
+
+  for (int i = 0; i < total; i++) {
+
+    float prev = datos[(i - 1 + total) % total];
+    float curr = datos[i];
+    float next = datos[(i + 1) % total];
+
+    // Suavizado fuerte para mantener circularidad
+    float smooth = (prev + curr + next) / 3.0;
+
+    float angle = map(i, 0, total, 0, TWO_PI);
+
+    // Radio base dominante
+    float baseRadius = 155;
+
+    // Variación controlada (muy importante)
+    float variation = map(smooth, 0, 120, -30, 60);
+
+    // Movimiento suave
+    float deform = 100 * sin(t + i * 0.1) * pulse;
+
+    float finalR = baseRadius + variation + deform;
+
+    float x = cos(angle) * finalR;
+    float y = sin(angle) * finalR;
+
+    // COLOR BASADO EN TAMAÑO
+    float colorFactor = map(finalR, 120, 180, 0, 1);
+    
+    // Interpolación azul → rojo
+    float r = lerp(0, 255, colorFactor);
+    float g = 50;
+    float b = lerp(255, 0, colorFactor);
+
+    fill(r, g, b, 180);
+
+    curveVertex(x, y);
+  }
+
+  endShape(CLOSE);
+
+  // Debug controlado
+  if (frameCount % 60 == 0) {
+    int idx = frameCount % datos.length;
+    println("Dato actual: " + datos[idx]);
+  }
+}
