@@ -15,3 +15,5 @@ estableciendo una relación directa entre tamaño y estado visual.
 
 - De esta manera, el proyecto desplaza el dato desde su condición numérica hacia una dimensión perceptiva,
 permitiendo observar el ritmo cardiaco no solo como medición, sino como una manifestación visual de procesos internos del cuerpo.
+
+![Visualización](media/CAPTURA.png)
