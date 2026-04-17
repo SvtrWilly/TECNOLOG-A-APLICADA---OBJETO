@@ -24,7 +24,7 @@ dormir, platicar con amigos, etc...
 - Hasta ahora, se han realizado 6 códigos de prueba.
 
  # DATOS CSV. 
-
+![Visualización](CLASE-03/captura.png)
  
 
 ![<img width="498" height="276" alt="Captura de Pantalla 2021-08-16 a la(s) 17 27 01" src="https://github.com/user-attachments/assets/87b50267-7ed3-4200-b346-2a4310ebb569" />
