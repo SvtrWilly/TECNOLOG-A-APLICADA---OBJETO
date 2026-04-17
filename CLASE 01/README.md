@@ -1,4 +1,4 @@
- # Clase 02
+ # Clase 01
   ¿Las canciones son objetos? 
   Más que las canciones, cómo puedo escultorizar u objetualizar un sonido?
   Cómo escultorizar una canción
