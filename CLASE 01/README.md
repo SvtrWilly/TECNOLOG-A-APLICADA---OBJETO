@@ -10,7 +10,13 @@ Relacional:
   - Suelo ser un poco directo
   - Hago muchos chistes
   - Soy muy entregado a otras personas
-  - Me esfuerzo por la aprobación
+  - Me esfuerzo por ayudar al resto
+  - Apego Evitativo
+  - Desorden de personalidad disociativo
+  - Budista
+  - Creativo
+  - Optimista
+  - Introspectivo
 
 Material: 
 - Sangre
@@ -19,6 +25,10 @@ Material:
 - Manchas en la piel
 - Pelo largo
 - Ojos irritados
+- Pelo largo
+- Delgado
+- De alguna manera diría que tengo el cuerpo de mi madre
+- Pies planos
 
   
 Tomar dos objetos diferentes para crear una nueva experiencia
