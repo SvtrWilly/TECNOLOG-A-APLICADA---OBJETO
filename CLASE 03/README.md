@@ -1,6 +1,6 @@
 # Descripción del proyecto
 
-- Este proyecto explora la traducción de datos fisiológicos en una experiencia visual sensible.
+- Este proyecto explora la traducción de datos fisiológicos *(como funciona el cuerpo)* en una experiencia visual sensible.
 A partir del registro de ritmo cardiaco obtenido desde un smartwatch, se construye una visualización
 en Processing que transforma estos valores en una forma orgánica en constante cambio.
 
