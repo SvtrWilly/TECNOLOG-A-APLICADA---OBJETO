@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Este proyecto explora la traducción de datos fisiológicos en una experiencia visual sensible. A partir del registro de ritmo cardiaco obtenido desde un smartwatch, se construye una visualización en Processing que transforma estos valores en una forma orgánica en constante cambio.
+Principalmente, el proyecto consta en la recolección de datos csv. emitidos por un electrocardiograma en un smartwatch y con un código, processing los lee e interpreta en una forma orgánica.
 
 En lugar de representar los datos como un gráfico tradicional, el proyecto propone una interpretación donde el pulso se manifiesta como un cuerpo dinámico: una figura circular que se expande, contrae y deforma suavemente según las variaciones del ritmo cardiaco.
 
@@ -42,15 +42,19 @@ La visualización no busca explicar el dato, sino encarnarlo. La forma no repres
 
 ## Visualización
 
-![Visualización](media/captura.png)
+![](/.imagenes/captura.png)
 
 ---
 
-## Reflexión
+## BITÁCORA
 
-Este proyecto propone una forma alternativa de entender los datos: no como información abstracta, sino como materia sensible.
-
-El ritmo cardiaco, usualmente reducido a números, se convierte aquí en una forma que respira, se tensiona y cambia. En este proceso, el dato pierde su carácter puramente técnico y adquiere una dimensión perceptiva.
+- El sujeto se expuso a una serie de situaciones de "estrés" en donde su pulso pudiera verse afectado.
+- Eventualmente, me gustaría interpretar estos pulsos como sonidos.
+- Lunes 06: El sujeto se presenta voluntario para el proyecto.
+- Martes 07: El sujeto lloró.
+- Miércoles 08: El sujeto tomó una siesta.
+- Jueves 09: El sujeto fue a la universidad.
+- El sujeto muestra sintomas depresivos fuertes
 
 ---
 
