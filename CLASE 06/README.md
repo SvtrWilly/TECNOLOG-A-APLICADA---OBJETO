@@ -11,9 +11,12 @@ Cambio de horario desde 09:15 a 12:45
 - ¿Cómo puedo presentar un proyecto?
 - 09:51 En objeto complejo veremos programación de sonido.
 - Mi proyecto es un objeto escultural que logre representar los pulsos.
-- 09:55 Cómo clonar una página de Github.
+- 09:55 Cómo clonar una página de "Github.dev"
 - 10:01 Vemos cómo utilizar el "fork" y Extensiones de Github.
 
-  # ORDENAR MI REPOSITORIO
+  # ORDENAR MI REPOSITORIO.
+## Crear una carpeta de imágenes.
+(APRENDER A SUBIR IMÁGENES)
 
+![](./escritorio/captura.png)
   
