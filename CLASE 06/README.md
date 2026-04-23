@@ -2,7 +2,7 @@ Cambio de horario desde 09:15 a 12:45
 
 23 de Abril, 2026
 
-# Clase 05
+# Clase 06
 ## Apuntes
 - 09:36 Estamos hablando del proyecto Violeta Parra, al no estar acreditada la universidad, están habiendo problemas.
 - El profesor hablará con Nicolás para ver la posibilidad de cambiarnos de sala para tener más espacio.
