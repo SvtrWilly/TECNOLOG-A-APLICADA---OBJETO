@@ -1,5 +1,6 @@
-30-04-2026
+Clase 30-04-2026
 # Apuntes
+
 09:38 = Qué es HambreHambreHambre?
 
 - Es un colectivo de dicidencias, hacen Fanzines (Revistas) Existe desde el 2019, durante el estallido social realizaron actividades
