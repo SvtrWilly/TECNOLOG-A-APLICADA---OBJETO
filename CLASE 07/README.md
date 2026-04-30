@@ -29,7 +29,7 @@
   - En realidad, pienso en muchas cosas que me provocan cierta ansiedad, la cantidad de funerales a los que he ido en estos días, semanas y meses es algo que se come mi cabeza.
     También, pienso en ciertas personas que me llenan el mundo de colores, es como si realmente el mundo se viera de forma distinta.
     Pienso mucho ahora mismo en idiomas, canciones pegadas, lo poco que he escrito últimamente, etc...
-  - Qué pienso de los zapatos? los zapatos dicen mucho de las personas. De alguna manera, son los tipos de jaulas que ocupa cada uno de nosotros
+  - Qué pienso de los zapatos? los zapatos dicen mucho de las personas. De alguna manera, son los tipos de jaulas que ocupa cada uno de nosotros (Nicanor Parra decía que los zapatos son ataúdes)
   - En Australia, la gente no usa zapatos y llevan un estilo de vida bastante relajado, en el lugar de donde vengo, la gente usa botas, bototos, zapatos de seguridad, etc... No se usan muchas zapatillas. (Decía mi madre) Los zapatos son identitarios,
     cómo puedo proponer una tabla de información con esto?
   - ¿Cuánto has caminado?¿De dónde vienes?¿A dónde vas?
