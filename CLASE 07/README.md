@@ -34,6 +34,7 @@
     cómo puedo proponer una tabla de información con esto?
   - ¿Cuánto has caminado?¿De dónde vienes?¿A dónde vas?
   - Todos estos datos posiblemente los tomaría a mano (Muy Alfredo Jaar)
-  - ¿Cuanto podemos deducir de una persona con sus zapatos?
+  # ¿Cuanto podemos deducir de una persona con sus zapatos?
   - ¿Qué datos puedo sacar?: Pasos diarios, trayectos, desgastes.
-  
+    
+  ## Especificar
