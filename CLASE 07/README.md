@@ -1,4 +1,4 @@
-Clase 30-04-2026
+30 de Abril, 2026
 # Apuntes
 
 09:38 = Qué es HambreHambreHambre?
