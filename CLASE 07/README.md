@@ -21,7 +21,7 @@
     
   ## ENCARGO
   - Elegir 3 objetos que sean de nuestro interés.
-  - *Zapatos, 4to traste de la 4ta cuerda de una guitarra, Encendedor.*
+  - *Zapatos, El sonido del 4to traste de la 4ta cuerda de una guitarra, Encendedor.*
   - *¿Qué es un objeto?*
   - CARTA: *En qué estás pensando realmente justo ahora? Incorpora*
   - Pienso mucho en *ciertos zapatos negros*, en cómo quisiera que esos zapatos se queden, pienso en cierto sonido particular de una posición específica de una guitarra y
