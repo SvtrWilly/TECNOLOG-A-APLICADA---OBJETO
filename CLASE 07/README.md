@@ -24,7 +24,7 @@
   - *Zapatos, El sonido del 4to traste de la 4ta cuerda de una guitarra, Encendedor.*
   - *¿Qué es un objeto?*
   - CARTA: *En qué estás pensando realmente justo ahora? Incorpora*
-  - Pienso mucho en *ciertos zapatos negros*, en cómo quisiera que esos zapatos se queden, pienso en cierto sonido particular de una posición específica de una guitarra y
+  - Pienso mucho en *ciertos zapatos de cuero negro*, en cómo quisiera que esos zapatos se queden, pienso en cierto sonido particular de una posición específica de una guitarra y
     pienso en que no tengo un encendedor a mano.
   - En realidad, pienso en muchas cosas que me provocan cierta ansiedad, la cantidad de funerales a los que he ido en estos días, semanas y meses es algo que se come mi cabeza.
     También, pienso en ciertas personas que me llenan el mundo de colores, es como si realmente el mundo se viera de forma distinta.
