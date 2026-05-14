@@ -14,7 +14,7 @@ Un fanzine no es necesariamente una revista de papel, sino un sistema de circula
 
 
   # Pre Exámen
-  ## William y Celianne 
+  ## William Salvador y Nicolás Contreras
 (Título)
 # Zapatos / Botas / Bototos
 ## "¿En qué estás pensando justo ahora?"
