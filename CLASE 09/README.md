@@ -1,7 +1,8 @@
 Clase 14/05/2026
 
-09:33 Estamos pasando lista después de debatir "Qué es una metáfora?"
-09:35 Hoy es el pre-exámen.
+- 09:33 Estamos pasando lista después de debatir "Qué es una metáfora?"
+- 09:35 Hoy es el pre-exámen.
+- 09:59 Muestras de los proyectos
 
 # Qué es un fanzine?
 
