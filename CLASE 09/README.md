@@ -3,7 +3,15 @@ Clase 14/05/2026
 09:33 Estamos pasando lista después de debatir "Qué es una metáfora?"
 09:35 Hoy es el pre-exámen.
 
+# Qué es un fanzine?
 
+Un fanzine no es necesariamente una revista de papel, sino un sistema de circulación de fragmentos. Puede existir como objeto, archivo u objeto física. Su valor está menos en el formato y más en cómo transmite una experiencia fuera de los medios oficiales.
+
+- Elegir un objeto de estudio: Zapatos
+
+
+  # Pre Exámen
+  ## William Salvador y Celianne 
 (Título)
 # Zapatos / Botas / Bototos
 ## "¿En qué estás pensando justo ahora?"
@@ -22,13 +30,10 @@ La investigación se desarrollará a partir de zapatos pertenecientes a trabajad
 - Fotografías de zapatos y suelas
 - Registros de desgaste
 
-## El resultado puede adoptar distintos formatos:
+## Montaje
 
-- Expo-mural
-- Publicación experimental
-- Fanzine expandido
-
-  Todos los formatos se basan en fotografía
+- Expo-mural de las fotografías recolectadas.
+- Publicación experimental en formato de Fanzine
 
 # Procedimiento
 - Recolección de (fotos de) zapatos y registros visuales
@@ -38,8 +43,6 @@ La investigación se desarrollará a partir de zapatos pertenecientes a trabajad
 - Producción de una pieza editorial para HAMBRE HAMBRE HAMBRE
 
 # Base de datos
-
-La base de datos del proyecto estará compuesta por:
 
 - zapatos usados
 - fotografías
