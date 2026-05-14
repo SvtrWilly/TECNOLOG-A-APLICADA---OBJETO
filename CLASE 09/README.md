@@ -8,7 +8,7 @@ Se puede hacer un montaje?
 
 # Qué es un fanzine?
 
-Un fanzine no es necesariamente una revista de papel, sino un sistema de circulación de fragmentos. Puede existir como objeto, archivo u objeto física. Su valor está menos en el formato y más en cómo transmite una experiencia fuera de los medios oficiales.
+Un fanzine no es necesariamente una revista de papel, sino un sistema de circulación de fragmentos. Puede existir como objeto, archivo , etc... Su valor está menos en el formato y más en cómo transmite una experiencia fuera de los medios "tradicionales".
 
 - Elegir un objeto de estudio: Zapatos
 
