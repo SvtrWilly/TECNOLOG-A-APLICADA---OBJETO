@@ -4,6 +4,8 @@ Clase 14/05/2026
 - 09:35 Hoy es el pre-exámen.
 - 09:59 Muestras de los proyectos
 
+Se puede hacer un montaje?
+
 # Qué es un fanzine?
 
 Un fanzine no es necesariamente una revista de papel, sino un sistema de circulación de fragmentos. Puede existir como objeto, archivo u objeto física. Su valor está menos en el formato y más en cómo transmite una experiencia fuera de los medios oficiales.
@@ -12,7 +14,7 @@ Un fanzine no es necesariamente una revista de papel, sino un sistema de circula
 
 
   # Pre Exámen
-  ## William Salvador y Celianne 
+  ## William y Celianne 
 (Título)
 # Zapatos / Botas / Bototos
 ## "¿En qué estás pensando justo ahora?"
