@@ -24,7 +24,7 @@ Un fanzine no es necesariamente una revista de papel, sino un sistema de circula
 Quiero abordar los zapatos como archivo del tránsito humano.
 Los zapatos contienen deformaciones, desgastes, manchas y huellas producidas por el movimiento cotidiano de un cuerpo dentro de un espacio específico. El proyecto busca registrar estas marcas como evidencia material de distintas formas de habitar y circular.
 
-La investigación se desarrollará a partir de zapatos pertenecientes a trabajadores, visitantes y personas vinculadas al entorno del museo.
+La investigación se desarrollará a partir de zapatos pertenecientes a distintas personas de diferentes partes de Chile.
 
 # Objeto
 
@@ -45,6 +45,11 @@ La investigación se desarrollará a partir de zapatos pertenecientes a trabajad
 - Construcción de un archivo visual
 - Producción de una pieza editorial para HAMBRE HAMBRE HAMBRE
 
+## Entrevista (Idea)
+- ¿Hace cuanto tienes estos zapatos?
+- ¿Los has reparado alguna vez?
+- ¿Son cómodos o sólo funcionales?
+  
 # Base de datos
 
 - zapatos usados
