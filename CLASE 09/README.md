@@ -1,7 +1,17 @@
+Clase 14/05/2026
+
+09:33 Estamos pasando lista después de debatir "Qué es una metáfora?"
+09:35 Hoy es el pre-exámen.
+
+
+(Título)
 # Zapatos / Botas / Bototos
+## "¿En qué estás pensando justo ahora?"
+
+"Pienso en diferentes zapatos y en cómo estos forman parte de nuestra identidad"
 
 Quiero abordar los zapatos como archivo del tránsito humano.
-Cada zapato contiene deformaciones, desgastes, manchas y huellas producidas por el movimiento cotidiano de un cuerpo dentro de un espacio específico. El proyecto busca registrar estas marcas como evidencia material de distintas formas de habitar y circular.
+Los zapatos contienen deformaciones, desgastes, manchas y huellas producidas por el movimiento cotidiano de un cuerpo dentro de un espacio específico. El proyecto busca registrar estas marcas como evidencia material de distintas formas de habitar y circular.
 
 La investigación se desarrollará a partir de zapatos pertenecientes a trabajadores, visitantes y personas vinculadas al entorno del museo.
 
@@ -14,9 +24,11 @@ La investigación se desarrollará a partir de zapatos pertenecientes a trabajad
 
 ## El resultado puede adoptar distintos formatos:
 
-- mural
-- publicación experimental
-- fanzine expandido
+- Expo-mural
+- Publicación experimental
+- Fanzine expandido
+
+  Todos los formatos se basan en fotografía
 
 # Procedimiento
 - Recolección de (fotos de) zapatos y registros visuales
@@ -35,6 +47,8 @@ La base de datos del proyecto estará compuesta por:
 - información básica sobre uso y circulación
 
 La investigación entiende el desgaste/uso como una parte de la identidad involuntaria producida por el tránsito humano.
+
+(Agregar Fotografías)
 
 
 
