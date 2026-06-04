@@ -45,7 +45,6 @@ La investigación se desarrollará a partir de zapatos pertenecientes a distinta
 - Observación de desgaste, deformaciones y marcas
 - Breves entrevistas sobre las personas involucradas en el proyecto
 - Construcción de un archivo visual
-- Producción de una pieza editorial para HAMBRE HAMBRE HAMBRE
 
 ## Entrevista (Idea Inspirada en la obra "Es Usted Feliz" de A. Jaar)
 - ¿Hace cuanto tienes estos zapatos?
