@@ -107,7 +107,7 @@ Qué tipo de suelo pisan más?
 - Son tus zapatos principales?
 - No
 - Qué tipo de suelo pisan más?
-- Generalmente los ocupo en conciertos, diría que madera.
+- Generalmente los ocupo en conciertos, diría que la madera de los escenarios.
 
 <img width="2245" height="1587" alt="20260603_233734_0000" src="https://github.com/user-attachments/assets/aaf87f0e-f652-4027-8549-3718bd3e39d8" />
   
