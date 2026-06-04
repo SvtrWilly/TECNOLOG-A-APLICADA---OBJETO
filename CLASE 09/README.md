@@ -94,20 +94,20 @@ Qué tipo de suelo pisan más?
 - No
 - Foto
   
-Nombre: Tommi Brandy
-Ocupación: Cantautor
-Región: Metropolitana
-Hace cuanto los tienes?
+- Nombre: Tommi Brandy
+- Ocupación: Cantautor
+- Región: Metropolitana
+- Hace cuanto los tienes?
 - Hace caleta, desde la pandemia creo... Posiblemente desde 2019.
-Qué te gusta de estos zapatos?
+- Qué te gusta de estos zapatos?
 - Se ven facheros
-Por qué los elegiste?
+- Por qué los elegiste?
 - La verdad, siempre me gustó la forma de las converse. Siento que es una forma moderna de hacer botas.
-Usas estos zapatos por comodidad, necesidad o gusto?
+- Usas estos zapatos por comodidad, necesidad o gusto?
 - Por gusto, son incómodas de usar la verdad.
-Son tus zapatos principales?
+- Son tus zapatos principales?
 - No
-Qué tipo de suelo pisan más?
+- Qué tipo de suelo pisan más?
 - Generalmente los ocupo en conciertos, diría que madera.
 
 <img width="2245" height="1587" alt="20260603_233734_0000" src="https://github.com/user-attachments/assets/aaf87f0e-f652-4027-8549-3718bd3e39d8" />
@@ -115,34 +115,34 @@ Qué tipo de suelo pisan más?
 - Nombre: Fran Villela
 - Ocupación: Estudiante de Música
 - Región: Metropolitana
-Hace cuanto los tienes?
+- Hace cuanto los tienes?
 - Hace cuatro años, pero los empecé a usar hace menos de un año porque no quería gastarlos.
-Qué te gusta de estos zapatos?
+- Qué te gusta de estos zapatos?
 - El diseño y los colores
-Por qué los elegiste?
+- Por qué los elegiste?
 - Quería tener unos zapatos distintos a los típicos blancos o negros. Se adaptan muy bien a la vida urbana.
-Usas estos zapatos por comodidad, necesidad o gusto?
+- Usas estos zapatos por comodidad, necesidad o gusto?
 - Gusto y comodidad, me encantan y no me incomodan.
-Son tus zapatos principales?
+- Son tus zapatos principales?
 - Se podría decir que sí.
-Qué tipo de suelo pisan más?
+- Qué tipo de suelo pisan más?
 - Cemento, los uso siempre en ambientes urbanos.
 <img width="2245" height="1587" alt="20260603_234358_0000" src="https://github.com/user-attachments/assets/1e5880ce-3ee8-42aa-a971-51c1273e5a77" />
 
 - Nombre: Nicolás Contreras
 - Ocupación: Bajista
 - Región: Metropolitana
-Hace cuanto los tienes?
+- Hace cuanto los tienes?
 - Tres Meses
-Qué te gusta de estos zapatos?
+- Qué te gusta de estos zapatos?
 - El diseño
-Por qué los elegiste?
+- Por qué los elegiste?
 - Representan novedad
-Usas estos zapatos por comodidad, necesidad o gusto?
+- Usas estos zapatos por comodidad, necesidad o gusto?
 - Gusto
-Son tus zapatos principales?
+- Son tus zapatos principales?
 - Sí
-Qué tipo de suelo pisan más?
+- Qué tipo de suelo pisan más?
 - Concreto
 
 - Nombre: Camilo
