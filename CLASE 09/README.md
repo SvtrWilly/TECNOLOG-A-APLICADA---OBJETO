@@ -5,6 +5,7 @@ Clase 14/05/2026
 - 09:59 Muestras de los proyectos
 
 Se puede hacer un montaje?
+- Pienso que sí.
 
 # Qué es un fanzine?
 
@@ -63,38 +64,81 @@ La investigación se desarrollará a partir de zapatos pertenecientes a distinta
 
 La investigación entiende el desgaste/uso como una parte de la identidad involuntaria producida por el tránsito humano.
 
+# BOCETO MONTAJE
+
+<img width="1402" height="1122" alt="file_000000003fe0720eb2c6fe8ad897b330" src="https://github.com/user-attachments/assets/213c67ae-354d-46ff-82c9-c1eb0cb94be7" />
+
+
+PREGUNTAS:
+
+Qué te gusta de estos zapatos?
+Por qué los elegiste?
+Usas estos zapatos por comodidad, necesidad o gusto?
+Son tus zapatos principales?
+Qué tipo de suelo pisan más?
+
+
 (Agregar Fotografías)
 
 
-- Nombre: Eugenio Salvador
-- Ocupación: Jefe de producción en una Planta procesadora de Mariscos.
-- Región: Los Lagos
+- Nombre: Tamari Gonzalez
+- Ocupación: Cantante
+- Región: Antofagasta
 - ¿Hace cuanto tienes estos zapatos?
- - Hace un par de semanas
-- ¿Los has reparado alguna vez?
- - No, regularmente cuando compro botas, las termino regalando.
-- ¿Son cómodos o sólo funcionales?
- - Son funcionales.
-   
-<img width="550" height="1000" alt="IMG-20260513-WA0004" src="https://github.com/user-attachments/assets/33131c28-5225-4907-aff7-98db4306b6d0" />
+- Cinco meses
+- ¿Cuanto los usas?
+- Dos días por semana aprox.
+-¿Los usas por comodidad, necesidad o gusto?
+- Por gusto
+- ¿Dirías que son tus zapatos principales?
+- No
+- Foto
+  
+Nombre: Tommi Brandy
+Ocupación: Cantautor
+Región: Metropolitana
+Hace cuanto los tienes?
+- Hace caleta, desde la pandemia creo... Posiblemente desde 2019.
+Qué te gusta de estos zapatos?
+- Se ven facheros
+Por qué los elegiste?
+- La verdad, siempre me gustó la forma de las converse. Siento que es una forma moderna de hacer botas.
+Usas estos zapatos por comodidad, necesidad o gusto?
+- Por gusto, son incómodas de usar la verdad.
+Son tus zapatos principales?
+- No
+Qué tipo de suelo pisan más?
+- Generalmente los ocupo en conciertos, diría que madera.
 
-
+<img width="2245" height="1587" alt="20260603_233734_0000" src="https://github.com/user-attachments/assets/aaf87f0e-f652-4027-8549-3718bd3e39d8" />
   
 - Nombre: Fran Villela
 - Ocupación: Estudiante de Música
 - Región: Metropolitana
-<img width="600" height="800" alt="IMG-20260513-WA0019" src="https://github.com/user-attachments/assets/b6945fd7-9c03-41e2-b997-dea5dcd7dc12" />
+Hace cuanto los tienes?
+Qué te gusta de estos zapatos?
+Por qué los elegiste?
+Usas estos zapatos por comodidad, necesidad o gusto?
+Son tus zapatos principales?
+Qué tipo de suelo pisan más?
+<img width="2245" height="1587" alt="20260603_234358_0000" src="https://github.com/user-attachments/assets/1e5880ce-3ee8-42aa-a971-51c1273e5a77" />
 
-
-- Nombre: Flo Villela
-- Ocupación: Estudiante de Diseño Gráfico
+- Nombre: Nicolás Contreras
+- Ocupación: Bajista
 - Región: Metropolitana
-<img width="600" height="800" alt="IMG-20260513-WA0046" src="https://github.com/user-attachments/assets/a57e985d-be1d-45af-8006-87e5a2841816" />
+Hace cuanto los tienes?
+- Tres Meses
+Qué te gusta de estos zapatos?
+- El diseño
+Por qué los elegiste?
+- Representan novedad
+Usas estos zapatos por comodidad, necesidad o gusto?
+- Gusto
+Son tus zapatos principales?
+- Sí
+Qué tipo de suelo pisan más?
+- Concreto
 
-
-- Nombre: Celianne Boudrouaz
-- Ocupación: Practicante de Ciencias Políticas
-- Región: Centre-Val de Loire (Francia)
-<img width="768" height="1024" alt="IMG-20260514-WA0000" src="https://github.com/user-attachments/assets/9f8b0a39-8d7f-4646-b898-1dccd8aa17b7" />
-
-
+- Nombre: Camilo
+- Ocupación: Trombonista
+- Región: Metropolitana
