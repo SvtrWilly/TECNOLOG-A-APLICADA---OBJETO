@@ -24,9 +24,9 @@ Un fanzine no es necesariamente una revista de papel, sino un sistema de circula
 
 Quiero abordar los zapatos como archivo del tránsito humano.
 Los zapatos contienen deformaciones, desgastes, manchas y huellas producidas por el movimiento cotidiano de un cuerpo dentro de un espacio específico. El proyecto busca registrar estas marcas como evidencia material de distintas formas de habitar y circular.
-Dentro de todo, los zapatos dicen mucho sobre quienes somos.
+Dentro de todo, los zapatos dicen mucho sobre nuestra identidad.
 
-La investigación se desarrollará a partir de zapatos pertenecientes a distintas personas de diferentes partes de Chile.
+La investigación se desarrollará a partir de zapatos pertenecientes a distintas personas que trabajan, estudian y viven de la música.
 
 # Objeto
 
@@ -80,7 +80,7 @@ Qué tipo de suelo pisan más?
 (Agregar Fotografías)
 
 
-- Nombre: Tamari Gonzalez
+# - Nombre: Tamari Gonzalez
 - Ocupación: Cantante
 - Región: Antofagasta
 - ¿Hace cuanto tienes estos zapatos?
@@ -92,8 +92,8 @@ Qué tipo de suelo pisan más?
 - ¿Dirías que son tus zapatos principales?
 - No
 - Foto
-  
-- Nombre: Tommi Brandy
+
+# - Nombre: Tommi Brandy
 - Ocupación: Cantautor
 - Región: Metropolitana
 - Hace cuanto los tienes?
@@ -111,7 +111,7 @@ Qué tipo de suelo pisan más?
 
 <img width="2245" height="1587" alt="20260603_233734_0000" src="https://github.com/user-attachments/assets/aaf87f0e-f652-4027-8549-3718bd3e39d8" />
   
-- Nombre: Fran Villela
+# - Nombre: Fran Villela
 - Ocupación: Estudiante de Música
 - Región: Metropolitana
 - Hace cuanto los tienes?
@@ -128,7 +128,7 @@ Qué tipo de suelo pisan más?
 - Cemento, los uso siempre en ambientes urbanos.
 <img width="2245" height="1587" alt="20260603_234358_0000" src="https://github.com/user-attachments/assets/1e5880ce-3ee8-42aa-a971-51c1273e5a77" />
 
-- Nombre: Nicolás Contreras
+# - Nombre: Nicolás Contreras
 - Ocupación: Bajista
 - Región: Metropolitana
 - Hace cuanto los tienes?
@@ -144,6 +144,6 @@ Qué tipo de suelo pisan más?
 - Qué tipo de suelo pisan más?
 - Concreto
 
-- Nombre: Camilo
+# - Nombre: Camilo
 - Ocupación: Trombonista
 - Región: Metropolitana
