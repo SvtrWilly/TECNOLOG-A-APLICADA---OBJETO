@@ -116,11 +116,17 @@ Qué tipo de suelo pisan más?
 - Ocupación: Estudiante de Música
 - Región: Metropolitana
 Hace cuanto los tienes?
+- Hace cuatro años, pero los empecé a usar hace menos de un año porque no quería gastarlos.
 Qué te gusta de estos zapatos?
+- El diseño y los colores
 Por qué los elegiste?
+- Quería tener unos zapatos distintos a los típicos blancos o negros. Se adaptan muy bien a la vida urbana.
 Usas estos zapatos por comodidad, necesidad o gusto?
+- Gusto y comodidad, me encantan y no me incomodan.
 Son tus zapatos principales?
+- Se podría decir que sí.
 Qué tipo de suelo pisan más?
+- Cemento, los uso siempre en ambientes urbanos.
 <img width="2245" height="1587" alt="20260603_234358_0000" src="https://github.com/user-attachments/assets/1e5880ce-3ee8-42aa-a971-51c1273e5a77" />
 
 - Nombre: Nicolás Contreras
