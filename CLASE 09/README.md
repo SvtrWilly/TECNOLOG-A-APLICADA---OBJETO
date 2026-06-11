@@ -112,7 +112,7 @@ Qué tipo de suelo pisan más?
 <img width="2245" height="1587" alt="20260603_233734_0000" src="https://github.com/user-attachments/assets/aaf87f0e-f652-4027-8549-3718bd3e39d8" />
   
 # - Nombre: Fran Villela
-- Ocupación: Estudiante de Música
+- Ocupación: Pianista
 - Región: Metropolitana
 - Hace cuanto los tienes?
 - Hace cuatro años, pero los empecé a usar hace menos de un año porque no quería gastarlos.
