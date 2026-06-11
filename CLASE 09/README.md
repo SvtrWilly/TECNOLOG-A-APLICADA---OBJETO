@@ -14,7 +14,7 @@ Un fanzine no es necesariamente una revista de papel, sino un sistema de circula
 - Elegir un objeto de estudio: Zapatos
 
 
-  # Pre Exámen
+  # Pre Examen
   ## William Salvador y Nicolás Contreras
 (Título)
 # Zapatos / Botas / Bototos
@@ -144,6 +144,18 @@ Qué tipo de suelo pisan más?
 - Qué tipo de suelo pisan más?
 - Concreto
 
-# - Nombre: Camilo
+# - Nombre: Camilo Álvarez
 - Ocupación: Trombonista
 - Región: Metropolitana
+- Hace cuanto los tienes?
+- Casi un año
+- Qué te gusta de estos zapatos?
+- La forma
+- Por qué los elegiste?
+- Porque son muy bonitos
+- Usas estos zapatos por comodidad, necesidad o gusto?
+- Gusto
+- Son tus zapatos principales?
+- No, sólo los ocupo para tocar
+- Qué tipo de suelo pisan más?
+- Madera
