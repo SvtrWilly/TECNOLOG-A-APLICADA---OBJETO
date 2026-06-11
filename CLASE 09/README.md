@@ -4,6 +4,8 @@ Clase 14/05/2026
 - 09:35 Hoy es el pre-exámen.
 - 09:59 Muestras de los proyectos
 
+Hoy pienso en todo lo que he hecho para caer bien y sin embargo, a veces (A menudo) me sigo sintiendo un tanto rechazado. Pienso que soy buena persona, pero estoy en una lucha interna desde hace tiempo, me ataco, me odio, me detesto y ocasionalmente, me gustaría dejar de pensar. Pero tengo buenos amigos, tengo buenas personas a mi lado que me ayudan a que este sentimiento no me termine de ahogar mientras duermo.
+
 Se puede hacer un montaje?
 - Pienso que sí.
 
