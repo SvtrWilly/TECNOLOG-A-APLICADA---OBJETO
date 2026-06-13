@@ -17,5 +17,5 @@
 ## Cosas por enviar a Almendra:
  - Título de la Obra
  - Integrantes
- - Statement de la Obra
+ - Statement de la Obra: El proyecto habla sobre los zapatos de músicos.
  - Imagen de referencia del trabajo.
