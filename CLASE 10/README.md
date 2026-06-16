@@ -9,7 +9,7 @@
 # Rúbrica
 - Debemos hacer un Fanzine de exhibición y uno más de regalo.
 - Título (Suela (Prov))
-- Creadores (William Salvador)
+- Creadores (William Salvador y Nicolás Contreras)
 - Comunidad con la que trabajamos (Escuela de Música Uniacc)
 - Este proyecto fue realizado en el marco del curso Tec. Aplicada III: Objeto, impartido por el docente Matías Serrano y la ayudantía de Alexandra Fuentes. En colaboración con HAMBREHAMBREHAMBRE.
 - Logos asociados: VcM Uniacc, AAVV, HAMBRE3, MVP.
