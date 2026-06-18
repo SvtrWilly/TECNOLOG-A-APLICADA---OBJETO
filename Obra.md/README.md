@@ -1,4 +1,4 @@
-Clase 18/06
+Clase 18/06/2026
 - Título obra
 - Integrantes
 - Statement de la obra
