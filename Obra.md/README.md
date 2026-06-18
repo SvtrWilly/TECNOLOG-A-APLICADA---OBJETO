@@ -15,6 +15,8 @@ Clase 18/06
 - Debería dejarlo en horizontal?
 - Cambio la tipografía? (Parece word)
 - Cómo puedo arreglar el peso visual de p y r?
+- Cambiar el tamaño del texto en la parte de atrás
+- Imprimir más grande o más pequeño?
 
 # "¿En qué estás pensando justo ahora?"
 "Pienso en diferentes zapatos y en cómo estos forman parte de nuestra identidad"
