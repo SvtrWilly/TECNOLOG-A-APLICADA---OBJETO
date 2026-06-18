@@ -10,13 +10,14 @@ Clase 18/06/2026
 - Peso visual de preguntas y respuestas.
 - Quitar nombre, ocupacion y region.
 - Arreglar el Statement
+- Arreglar fotos hasta 20 aprox.
 
 # Preguntas:
-- Debería dejarlo en horizontal?
-- Cambio la tipografía? (Parece word)
-- Cómo puedo arreglar el peso visual de p y r?
-- Cambiar el tamaño del texto en la parte de atrás
-- Imprimir más grande o más pequeño?
+- Debería dejarlo en horizontal? Vertical
+- Cambio la tipografía? (Parece word) Quitar los puntos
+- Cómo puedo arreglar el peso visual de p y r? Formalizar con signos de interrogación y arreglar formato de preguntas y respuestas.
+- Cambiar el tamaño del texto en la parte de atrás.
+- Imprimir más grande o más pequeño? No
 
 # "¿En qué estás pensando justo ahora?"
 "Pienso en diferentes zapatos y en cómo estos forman parte de nuestra identidad"
@@ -24,6 +25,7 @@ Clase 18/06/2026
 
 # SUELA
 - William Salvador y Nicolás Contreras
+## Statement
 - Este proyecto surge de la idea de que los zapatos pueden funcionar como un registro de la ocupación y personalidad de una persona. En esta ocasión, la investigación se centra en músicos y a través de fotografías y entrevistas, documentar las diferencias existentes entre estos individuos.
 
 # Imagenes:
