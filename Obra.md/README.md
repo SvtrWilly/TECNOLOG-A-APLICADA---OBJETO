@@ -5,11 +5,16 @@ Clase 18/06
 - Imagen de referencia del trabajo
 - Maqueta de obra: traer un avance del fanzine u obra física que estén construyendo, lo más avanzada posible. Necesario para tener nociones de materialidad, dimensiones y poder diseñar el espacio expositivo
 
-# Apuntes.
+# Apuntes:
 - Arreglar diagramación más experimental.
 - Peso visual de preguntas y respuestas.
 - Quitar nombre, ocupacion y region.
 - Arreglar el Statement
+
+# Preguntas:
+- Debería dejarlo en horizontal?
+- Cambio la tipografía? (Parece word)
+- Cómo puedo arreglar el peso visual de p y r?
 
 # "¿En qué estás pensando justo ahora?"
 "Pienso en diferentes zapatos y en cómo estos forman parte de nuestra identidad"
