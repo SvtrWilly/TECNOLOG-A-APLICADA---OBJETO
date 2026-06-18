@@ -13,6 +13,7 @@ Clase 18/06
 
 # "¿En qué estás pensando justo ahora?"
 "Pienso en diferentes zapatos y en cómo estos forman parte de nuestra identidad"
+Es interesante ver como los zapatos nos identifican, como estos cambian según la ocupación y personalidad de cada persona.
 
 # SUELA
 - William Salvador y Nicolás Contreras
